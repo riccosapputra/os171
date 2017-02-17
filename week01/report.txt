@@ -1,0 +1,2 @@
+know nano,vi,vim function
+know how to pull and push github 
