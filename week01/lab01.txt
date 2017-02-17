@@ -20,3 +20,4 @@ drwxr-xr-x  2 rico.saputra StafCS 4096 Feb 17 23:43 week09
 drwxr-xr-x  2 rico.saputra StafCS 4096 Feb 17 23:43 week10
 drwxr-xr-x  2 rico.saputra StafCS 4096 Feb 17 23:40 wek02
 drwxr-xr-x  2 rico.saputra StafCS 4096 Feb 17 23:44 xtra
+Today is 18 Feb 2017 at 00:07:15
