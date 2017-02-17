@@ -1,0 +1,22 @@
+total 80
+drwxr-xr-x 19 rico.saputra StafCS 4096 Feb 17 23:56 .
+drwx--x--x  6 rico.saputra StafCS 4096 Feb 17 23:53 ..
+drwxr-xr-x  8 rico.saputra StafCS 4096 Feb 17 23:50 .git
+drwxr-xr-x  2 rico.saputra StafCS 4096 Feb 17 23:44 key
+-rw-r--r--  1 rico.saputra StafCS    0 Feb 17 23:57 lab01.txt
+drwxr-xr-x  2 rico.saputra StafCS 4096 Feb 17 23:44 log
+-rw-r--r--  1 rico.saputra StafCS    7 Feb 17 23:38 README.md
+drwxr-xr-x  2 rico.saputra StafCS 4096 Feb 17 23:49 sandbox
+drwxr-xr-x  2 rico.saputra StafCS 4096 Feb 17 23:53 week00
+drwxr-xr-x  2 rico.saputra StafCS 4096 Feb 17 23:42 week01
+drwxr-xr-x  2 rico.saputra StafCS 4096 Feb 17 23:42 week02
+drwxr-xr-x  2 rico.saputra StafCS 4096 Feb 17 23:42 week03
+drwxr-xr-x  2 rico.saputra StafCS 4096 Feb 17 23:42 week04
+drwxr-xr-x  2 rico.saputra StafCS 4096 Feb 17 23:43 week05
+drwxr-xr-x  2 rico.saputra StafCS 4096 Feb 17 23:43 week06
+drwxr-xr-x  2 rico.saputra StafCS 4096 Feb 17 23:43 week07
+drwxr-xr-x  2 rico.saputra StafCS 4096 Feb 17 23:43 week08
+drwxr-xr-x  2 rico.saputra StafCS 4096 Feb 17 23:43 week09
+drwxr-xr-x  2 rico.saputra StafCS 4096 Feb 17 23:43 week10
+drwxr-xr-x  2 rico.saputra StafCS 4096 Feb 17 23:40 wek02
+drwxr-xr-x  2 rico.saputra StafCS 4096 Feb 17 23:44 xtra
