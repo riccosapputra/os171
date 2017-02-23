@@ -1,0 +1,2 @@
+[w02]-[02252017]-[13]-[PS]-[privacy Matter,Encryption and Digital Signature using GnuPG]
+[w02]-[02252017]-[13]-[PS]-[Intro to C]
