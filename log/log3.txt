@@ -1,4 +1,1 @@
-[w04]-[03112017]-[13]-[PS]-[Global Variable Address VS Local Variable Address]
-[w04]-[03112017]-[13]-[PS]-[pointer]
-[w04]-[03112017]-[13]-[PS]-[I/O Process]
-
+[w03]-[03032017]-[13]-[PS]-[ boot and startup script]
